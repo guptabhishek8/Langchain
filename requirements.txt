@@ -5,3 +5,6 @@ streamlit
 langchain_community
 langserve
 langchain-ollama
+bs4
+pypdf
+faiss-cpu
